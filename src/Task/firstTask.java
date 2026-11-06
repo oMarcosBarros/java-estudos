@@ -1,6 +1,6 @@
-package firstTask;
+package Task;
 
-public class Main {
+public class firstTask {
     public static void main(String[] args) {
         System.out.println("Olá Mundo! ");
     }
